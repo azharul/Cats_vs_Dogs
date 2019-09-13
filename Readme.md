@@ -4,6 +4,7 @@ Different implementations of Kaggle cats vs dogs challenge using tensorflow.kera
 **Model**: three layer convnet, each with a maxpool layer, followed by a flatten and a dense layer. Finally a sigmoid layer for binary classification (image available in model folder
 
 **Implementations**
+    
     1. No data augmentation, dropout
     2. Data augmentation and dropout (Had to run in google colab as my laptop wasn't able to run it)
   
