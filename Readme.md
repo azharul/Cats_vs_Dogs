@@ -6,7 +6,8 @@ Different implementations of Kaggle cats vs dogs challenge using tensorflow.kera
 **Implementations**
     
     1. No data augmentation, dropout
-    2. Data augmentation and dropout (Had to run in google colab as my laptop wasn't able to run it)
+    2. Data augmentation and dropout 
+    3. Using transfer learning (used MobileNetV2) -  best performing model
   
 Project Link: [Kaggle Cats vs Dogs](https://www.kaggle.com/c/dogs-vs-cats)"
    
