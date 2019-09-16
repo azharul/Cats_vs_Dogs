@@ -3,7 +3,7 @@ Different implementations of Kaggle cats vs dogs challenge using tensorflow.kera
 
 **Model1**: three layer convnet, each with a maxpool layer, followed by a flatten and a dense layer. Finally a sigmoid layer for binary classification (image available in model folder
 
-**Model2**: transfer learning (used MobileNetV2, added a global average layer and a dense layer for classification)
+**Model2**: transfer learning (used MobileNetV2/InceptionNet , added a global average layer and a dense layer for classification)
 
 
 **Implementations**
